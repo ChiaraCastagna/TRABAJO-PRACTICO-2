@@ -1,0 +1,26 @@
+[
+
+    {
+        "titulo": "Minecraft",
+        "genero": "Sandbox",
+        "descripcion": "Explorá, construí y sobreviví en un mundo abierto."
+    },
+
+    {
+        "titulo":"The Sims 4",
+        "genero":"Simulación",
+        "descripcion":"Creá personajes, construí hogares y diseñá sus historias."
+    },
+
+     {
+        "titulo":"Mario Kart 8 Deluxe",
+        "genero":"Carreras",
+        "descripcion":"Competí en circuitos llenos de obstáculos y desafíos."
+    },
+
+     {
+        "titulo":"Fortnite",
+        "genero":"Acción",
+        "descripcion":"Competí, construí y explorá diferentes experiencias."
+    }
+]
